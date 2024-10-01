@@ -17,7 +17,7 @@ A aplicação foi estruturada utilizando **React.js**, **TypeScript** e **SCSS**
 - ⏳Concluído
 
 ## 🔗 Link do Projeto
-- Vercel: Em breve
+- Vercel: [clique aqui](https://mapa-operacional.vercel.app/)!
 
 ## 📜 Escopo do Projeto
 
@@ -71,7 +71,7 @@ Antes de iniciar, certifique-se de ter o [Node](https://nodejs.org/pt/download/p
 Abra o terminal Git na sua máquina, dentro da pasta onde deseja baixar o projeto, e execute o comando:
 
 ```
-git clone <<REPOSITÓRIO>>
+git clone https://github.com/DanielEmidio1988/mapa-operacional.git
 ```
 
 ### Instalação pacotes NPM
@@ -82,7 +82,7 @@ npm install
 ```
 
 ### Execução do projeto
-Após a instalação dos pacotes NPM, execute o comando abaixo para abrir o projeto localmente na localhost 3030:
+Após a instalação dos pacotes NPM, execute o comando abaixo para abrir o projeto localmente na localhost 3000:
 ```
 npm start
 ```
